@@ -9,7 +9,7 @@ Here's a quick set-up of your Mac in order to programm with c++ without Xcode:
 
 And here's a way to install ROOT (Cern) without using xCode as they behave like black holes with your storage:
 
-->
+-> https://github.com/vero-dav-vero/here-to-help/blob/main/Root%20Cern%20without%20Xcode.md
 
 If you find something that doesn't work feel free to contact me! This should be a tool to help people, not confuse them!
 
