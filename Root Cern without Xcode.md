@@ -4,7 +4,7 @@ I know what you are thinking: is that possible? Aw man I hate Xcode, they occupi
 
 A little disclaimer: I have a Mac from mid 2013, the one with the old processor (before M1). Everything has worked fine for me, if some of you have a newer Mac and these intructions don't work with you, feel free to contact me. I may not know how to fix your problems but I may know who might!
 
-I still don't know if by just unistalling the application Xcode you automatically free al the space it used to occupy. 
+I still don't know if by just uninstalling the application Xcode you automatically free al the space it used to occupy. 
 Yet, by opening Settings and looking for the Developer folder, try to remove project build caches and then uninstall the Xcode app.
 It mandatory to install CMake in onder to do all these things. If you don't know how to install CMake on your Mac why don't you look at my MacOS set-up guide? -> https://github.com/vero-dav-vero/here-to-help/blob/main/MacOS%20set-up :)
 
