@@ -1,4 +1,4 @@
-#MacOS set-up 
+# MacOS set-up 
 
 This guide shows how to create an appropriate workplace in order to program in Physics (by using c++ language).
 
